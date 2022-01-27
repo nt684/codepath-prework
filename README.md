@@ -30,8 +30,6 @@ Here's a walkthrough of implemented user stories:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/72460840/151406385-926cc06c-0b91-4147-b302-03ae552c779c.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
 Describe any challenges encountered while building the app.
